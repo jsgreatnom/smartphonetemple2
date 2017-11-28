@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/main_background" >
+    
+    <ScrollView
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        >
+     <LinearLayout
+        android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:orientation="vertical" >
+    	
+    <LinearLayout
+        android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:orientation="horizontal" >
+    
+   	 	<TextView
+      	  android:layout_width="wrap_content"
+      	  android:layout_height="wrap_content" 
+      	  android:text="DB IP:" />
+   	 	
+   	 	<EditText 
+   	 	  	android:id="@+id/db_server_ip"
+   	 	    android:layout_width="wrap_content"
+      	  	android:layout_height="wrap_content" 
+      	  	/>
+   	 	<TextView
+      	  android:layout_width="wrap_content"
+      	  android:layout_height="wrap_content" 
+      	  android:text="DB PORT:" />
+   	 	
+   	 	<EditText 
+   	 	  	android:id="@+id/db_server_port"
+   	 	    android:layout_width="wrap_content"
+      	  	android:layout_height="wrap_content" 
+      	  	/>
+    
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:orientation="horizontal" >
+    
+   	 	<TextView
+      	  android:layout_width="wrap_content"
+      	  android:layout_height="wrap_content" 
+      	  android:text="DB Admin:" />
+   	 	
+   	 	<EditText 
+   	 	  	android:id="@+id/db_server_admin"
+   	 	    android:layout_width="wrap_content"
+      	  	android:layout_height="wrap_content" 
+      	  	/>
+   	 	<TextView
+      	  android:layout_width="wrap_content"
+      	  android:layout_height="wrap_content" 
+      	  android:text="DB PassWord:" />
+   	 	
+   	 	<EditText 
+   	 	  	android:id="@+id/db_server_password"
+   	 	    android:layout_width="wrap_content"
+      	  	android:layout_height="wrap_content" 
+      	  	/>
+    
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:orientation="horizontal" >
+    
+   	 	<TextView
+      	  android:layout_width="wrap_content"
+      	  android:layout_height="wrap_content" 
+      	  android:text="Cam1 IP:" />
+   	 	
+   	 	<EditText 
+   	 	  	android:id="@+id/camera1_ip"
+   	 	    android:layout_width="wrap_content"
+      	  	android:layout_height="wrap_content" 
+      	  	/>
+   	 	<TextView
+      	  android:layout_width="wrap_content"
+      	  android:layout_height="wrap_content" 
+      	  android:text="Cam1 PORT:" />
+   	 	
+   	 	<EditText 
+   	 	  	android:id="@+id/camera1_port"
+   	 	    android:layout_width="wrap_content"
+      	  	android:layout_height="wrap_content" 
+      	  	/>
+    
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:orientation="horizontal" >
+    
+   	 	<TextView
+      	  android:layout_width="wrap_content"
+      	  android:layout_height="wrap_content" 
+      	  android:text="Cam1 Admin:" />
+   	 	
+   	 	<EditText 
+   	 	  	android:id="@+id/camera1_admin"
+   	 	    android:layout_width="wrap_content"
+      	  	android:layout_height="wrap_content" 
+      	  	/>
+   	 	<TextView
+      	  android:layout_width="wrap_content"
+      	  android:layout_height="wrap_content" 
+      	  android:text="Cam1 password:" />
+   	 	
+   	 	<EditText 
+   	 	  	android:id="@+id/camera1_password"
+   	 	    android:layout_width="wrap_content"
+      	  	android:layout_height="wrap_content" 
+      	  	/>
+    
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:orientation="horizontal" >
+    
+   	 	<TextView
+      	  android:layout_width="wrap_content"
+      	  android:layout_height="wrap_content" 
+      	  android:text="Cam2 IP:" />
+   	 	
+   	 	<EditText 
+   	 	  	android:id="@+id/camera2_ip"
+   	 	    android:layout_width="wrap_content"
+      	  	android:layout_height="wrap_content" 
+      	  	/>
+   	 	<TextView
+      	  android:layout_width="wrap_content"
+      	  android:layout_height="wrap_content" 
+      	  android:text="Cam2 PORT:" />
+   	 	
+   	 	<EditText 
+   	 	  	android:id="@+id/camera2_port"
+   	 	    android:layout_width="wrap_content"
+      	  	android:layout_height="wrap_content" 
+      	  	/>
+    
+    </LinearLayout>
+     <LinearLayout
+        android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:orientation="horizontal" >
+    
+   	 	<TextView
+      	  android:layout_width="wrap_content"
+      	  android:layout_height="wrap_content" 
+      	  android:text="Cam2 Admin:" />
+   	 	
+   	 	<EditText 
+   	 	  	android:id="@+id/camera2_admin"
+   	 	    android:layout_width="wrap_content"
+      	  	android:layout_height="wrap_content" 
+      	  	/>
+   	 	<TextView
+      	  android:layout_width="wrap_content"
+      	  android:layout_height="wrap_content" 
+      	  android:text="Cam2 PassWord:" />
+   	 	
+   	 	<EditText 
+   	 	  	android:id="@+id/camera2_password"
+   	 	    android:layout_width="wrap_content"
+      	  	android:layout_height="wrap_content" 
+      	  	/>
+    
+    </LinearLayout>
+    
+     
+    <LinearLayout
+        android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:orientation="horizontal" >
+    
+   	 	<TextView
+      	  android:layout_width="wrap_content"
+      	  android:layout_height="wrap_content" 
+      	  android:text="Cam3 IP:" />
+   	 	
+   	 	<EditText 
+   	 	  	android:id="@+id/camera3_ip"
+   	 	    android:layout_width="wrap_content"
+      	  	android:layout_height="wrap_content" 
+      	  	/>
+   	 	<TextView
+      	  android:layout_width="wrap_content"
+      	  android:layout_height="wrap_content" 
+      	  android:text="Cam3 PORT:" />
+   	 	
+   	 	<EditText 
+   	 	  	android:id="@+id/camera3_port"
+   	 	    android:layout_width="wrap_content"
+      	  	android:layout_height="wrap_content" 
+      	  	/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:orientation="horizontal" >
+    
+   	 	<TextView
+      	  android:layout_width="wrap_content"
+      	  android:layout_height="wrap_content" 
+      	  android:text="Cam3 Admin:" />
+   	 	
+   	 	<EditText 
+   	 	  	android:id="@+id/camera3_admin"
+   	 	    android:layout_width="wrap_content"
+      	  	android:layout_height="wrap_content" 
+      	  	/>
+   	 	<TextView
+      	  android:layout_width="wrap_content"
+      	  android:layout_height="wrap_content" 
+      	  android:text="Cam3 PassWord:" />
+   	 	
+   	 	<EditText 
+   	 	  	android:id="@+id/camera3_password"
+   	 	    android:layout_width="wrap_content"
+      	  	android:layout_height="wrap_content" 
+      	  	/>
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:orientation="horizontal" >
+    
+   	 	<TextView
+      	  android:layout_width="wrap_content"
+      	  android:layout_height="wrap_content" 
+      	  android:text="Cam4 IP:" />
+   	 	
+   	 	<EditText 
+   	 	  	android:id="@+id/camera4_ip"
+   	 	    android:layout_width="wrap_content"
+      	  	android:layout_height="wrap_content" 
+      	  	/>
+   	 	<TextView
+      	  android:layout_width="wrap_content"
+      	  android:layout_height="wrap_content" 
+      	  android:text="Cam4 PORT:" />
+   	 	
+   	 	<EditText 
+   	 	  	android:id="@+id/camera4_port"
+   	 	    android:layout_width="wrap_content"
+      	  	android:layout_height="wrap_content" 
+      	  	/>
+    
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:orientation="horizontal" >
+    
+   	 	<TextView
+      	  android:layout_width="wrap_content"
+      	  android:layout_height="wrap_content" 
+      	  android:text="Cam4 Admin:" />
+   	 	
+   	 	<EditText 
+   	 	  	android:id="@+id/camera4_admin"
+   	 	    android:layout_width="wrap_content"
+      	  	android:layout_height="wrap_content" 
+      	  	/>
+   	 	<TextView
+      	  android:layout_width="wrap_content"
+      	  android:layout_height="wrap_content" 
+      	  android:text="Cam4 PassWord:" />
+   	 	
+   	 	<EditText 
+   	 	  	android:id="@+id/camera4_password"
+   	 	    android:layout_width="wrap_content"
+      	  	android:layout_height="wrap_content" 
+      	  	/>
+    
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:orientation="horizontal" >
+    
+   	 	<TextView
+      	  android:layout_width="wrap_content"
+      	  android:layout_height="wrap_content" 
+      	  android:text="Cam5 IP:" />
+   	 	
+   	 	<EditText 
+   	 	  	android:id="@+id/camera5_ip"
+   	 	    android:layout_width="wrap_content"
+      	  	android:layout_height="wrap_content" 
+      	  	/>
+   	 	<TextView
+      	  android:layout_width="wrap_content"
+      	  android:layout_height="wrap_content" 
+      	  android:text="Cam5 PORT:" />
+   	 	
+   	 	<EditText 
+   	 	  	android:id="@+id/camera5_port"
+   	 	    android:layout_width="wrap_content"
+      	  	android:layout_height="wrap_content" 
+      	  	/>
+    
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:orientation="horizontal" >
+    
+   	 	<TextView
+      	  android:layout_width="wrap_content"
+      	  android:layout_height="wrap_content" 
+      	  android:text="Cam5 Admin:" />
+   	 	
+   	 	<EditText 
+   	 	  	android:id="@+id/camera5_admin"
+   	 	    android:layout_width="wrap_content"
+      	  	android:layout_height="wrap_content" 
+      	  	/>
+   	 	<TextView
+      	  android:layout_width="wrap_content"
+      	  android:layout_height="wrap_content" 
+      	  android:text="Cam5 PassWord:" />
+   	 	
+   	 	<EditText 
+   	 	  	android:id="@+id/camera5_password"
+   	 	    android:layout_width="wrap_content"
+      	  	android:layout_height="wrap_content" 
+      	  	/>
+    
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:orientation="horizontal" >
+    
+   	 	<TextView
+      	  android:layout_width="wrap_content"
+      	  android:layout_height="wrap_content" 
+      	  android:text="Cam6 IP:" />
+   	 	
+   	 	<EditText 
+   	 	  	android:id="@+id/camera6_ip"
+   	 	    android:layout_width="wrap_content"
+      	  	android:layout_height="wrap_content" 
+      	  	/>
+   	 	<TextView
+      	  android:layout_width="wrap_content"
+      	  android:layout_height="wrap_content" 
+      	  android:text="Cam6 PORT:" />
+   	 	
+   	 	<EditText 
+   	 	  	android:id="@+id/camera6_port"
+   	 	    android:layout_width="wrap_content"
+      	  	android:layout_height="wrap_content" 
+      	  	/>
+    
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:orientation="horizontal" >
+    
+   	 	<TextView
+      	  android:layout_width="wrap_content"
+      	  android:layout_height="wrap_content" 
+      	  android:text="Cam6 Admin:" />
+   	 	
+   	 	<EditText 
+   	 	  	android:id="@+id/camera6_admin"
+   	 	    android:layout_width="wrap_content"
+      	  	android:layout_height="wrap_content" 
+      	  	/>
+   	 	<TextView
+      	  android:layout_width="wrap_content"
+      	  android:layout_height="wrap_content" 
+      	  android:text="Cam6 PassWord:" />
+   	 	
+   	 	<EditText 
+   	 	  	android:id="@+id/camera6_password"
+   	 	    android:layout_width="wrap_content"
+      	  	android:layout_height="wrap_content" 
+      	  	/>
+    
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:orientation="horizontal" >
+    
+   	 	<TextView
+      	  android:layout_width="wrap_content"
+      	  android:layout_height="wrap_content" 
+      	  android:text="Cam7 IP:" />
+   	 	
+   	 	<EditText 
+   	 	  	android:id="@+id/camera7_ip"
+   	 	    android:layout_width="wrap_content"
+      	  	android:layout_height="wrap_content" 
+      	  	/>
+   	 	<TextView
+      	  android:layout_width="wrap_content"
+      	  android:layout_height="wrap_content" 
+      	  android:text="Cam7 PORT:" />
+   	 	
+   	 	<EditText 
+   	 	  	android:id="@+id/camera7_port"
+   	 	    android:layout_width="wrap_content"
+      	  	android:layout_height="wrap_content" 
+      	  	/>
+    
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:orientation="horizontal" >
+    
+   	 	<TextView
+      	  android:layout_width="wrap_content"
+      	  android:layout_height="wrap_content" 
+      	  android:text="Cam7 Admin:" />
+   	 	
+   	 	<EditText 
+   	 	  	android:id="@+id/camera7_admin"
+   	 	    android:layout_width="wrap_content"
+      	  	android:layout_height="wrap_content" 
+      	  	/>
+   	 	<TextView
+      	  android:layout_width="wrap_content"
+      	  android:layout_height="wrap_content" 
+      	  android:text="Cam7 PassWord:" />
+   	 	
+   	 	<EditText 
+   	 	  	android:id="@+id/camera7_password"
+   	 	    android:layout_width="wrap_content"
+      	  	android:layout_height="wrap_content" 
+      	  	/>
+    
+    </LinearLayout>
+     <LinearLayout
+        android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:orientation="horizontal" >
+    
+   	 	<TextView
+      	  android:layout_width="wrap_content"
+      	  android:layout_height="wrap_content" 
+      	  android:text="Cam8 IP:" />
+   	 	
+   	 	<EditText 
+   	 	  	android:id="@+id/camera8_ip"
+   	 	    android:layout_width="wrap_content"
+      	  	android:layout_height="wrap_content" 
+      	  	/>
+   	 	<TextView
+      	  android:layout_width="wrap_content"
+      	  android:layout_height="wrap_content" 
+      	  android:text="Cam8 PORT:" />
+   	 	
+   	 	<EditText 
+   	 	  	android:id="@+id/camera8_port"
+   	 	    android:layout_width="wrap_content"
+      	  	android:layout_height="wrap_content" 
+      	  	/>
+    
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:orientation="horizontal" >
+    
+   	 	<TextView
+      	  android:layout_width="wrap_content"
+      	  android:layout_height="wrap_content" 
+      	  android:text="Cam8 Admin:" />
+   	 	
+   	 	<EditText 
+   	 	  	android:id="@+id/camera8_admin"
+   	 	    android:layout_width="wrap_content"
+      	  	android:layout_height="wrap_content" 
+      	  	/>
+   	 	<TextView
+      	  android:layout_width="wrap_content"
+      	  android:layout_height="wrap_content" 
+      	  android:text="Cam8 PassWord:" />
+   	 	
+   	 	<EditText 
+   	 	  	android:id="@+id/camera8_password"
+   	 	    android:layout_width="wrap_content"
+      	  	android:layout_height="wrap_content" 
+      	  	/>
+    
+    </LinearLayout>
+    
+    <Button
+        android:id="@+id/setting_button"
+         android:layout_width="fill_parent"
+      	 android:layout_height="wrap_content" 
+      	 android:text="확인"></Button>
+    	 
+    </LinearLayout>
+</ScrollView>
+</LinearLayout>

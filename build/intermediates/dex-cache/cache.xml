@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\jsyoon\.android\build-cache\50a8e92219c63d7a2bcd50239e788ee5dbb8d645\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="D:\Working\smartphonetemple2\app\build\intermediates\pre-dexed\debug\classes_3ace9be8c56a9e90b0c488a2aa8f70fcb123c6d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jsyoon\.android\build-cache\45e8ed23717951394c00efaa0ac8f0ed79870827\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="D:\Working\smartphonetemple2\app\build\intermediates\pre-dexed\debug\classes_5d12ac800f523cc61d7d5d2a256dd12175f46cf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Working\smartphonetemple2\app\libs\antenna-bin-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5bcfdfc8494bb949de7d1684be509392f1af1bae">
+        <dex dex="D:\Working\smartphonetemple2\app\build\intermediates\pre-dexed\debug\antenna-bin-1.0.2_af0667c2f2aa198eb649a18c5090fc9e20fe5422.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jsyoon\.android\build-cache\fd24f4c71b97eb82f05acf80688056dea2413ae6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\Working\smartphonetemple2\app\build\intermediates\pre-dexed\debug\classes_cd310cb27b0b8c545c0e6fe9725d9c68c0a189c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Working\smartphonetemple2\app\libs\dxmediaplayer.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9c1c77af541576a1b1c67d5e6867e25836bee287">
+        <dex dex="D:\Working\smartphonetemple2\app\build\intermediates\pre-dexed\debug\dxmediaplayer_a021d0213505740e48405e75590edacd18d3de37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Working\smartphonetemple2\app\libs\json_simple-1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="D:\Working\smartphonetemple2\app\build\intermediates\pre-dexed\debug\json_simple-1.1_52a70f2e7c88457d613a05315cc2a82eedd69214.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jsyoon\.android\build-cache\183f16f2381c54cf578de92230e9097a1588abcb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ea03bbfaed89818f233ee9918fac493f2b63895a">
+        <dex dex="D:\Working\smartphonetemple2\app\build\intermediates\pre-dexed\debug\classes_02cbf43cffedd66437269123c7e9de0a7a15bdf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jsyoon\.android\build-cache\10c8eddf4ddaecd662ab1d3b57d16e41ef16b68d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\Working\smartphonetemple2\app\build\intermediates\pre-dexed\debug\classes_c894e35302e221546c7406b62e7dbfae15134c7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jsyoon\.android\build-cache\bbd0ee67ee4743a5f9d03b44f008dc606c13fa00\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\Working\smartphonetemple2\app\build\intermediates\pre-dexed\debug\classes_8a1b9e93e18bf91c1dba01a5d1003113356ad46f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jsyoon\.android\build-cache\34e04f91690aa237ad9df12eec8923d88ceb0244\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="D:\Working\smartphonetemple2\app\build\intermediates\pre-dexed\debug\classes_420883a0ac09bcbb1e41a245577715106fef66c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jsyoon\.android\build-cache\18a069add19da2a60f283ec936a5dcabf765610e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\Working\smartphonetemple2\app\build\intermediates\pre-dexed\debug\classes_2de91f2a283224b863be3300cc6b0f2792d8d7a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jsyoon\.android\build-cache\d38bdb84813e7244f5ce7fb5730e706dc27790e4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\Working\smartphonetemple2\app\build\intermediates\pre-dexed\debug\classes_81bad32f9b46692591ba32d41e288be47d187044.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\Working\smartphonetemple2\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_4587515df70b11ae990e217c69c9b3a61733a049.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jsyoon\.android\build-cache\1d17bcfd18fb74289d31649f49d60e2c1671e86d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\Working\smartphonetemple2\app\build\intermediates\pre-dexed\debug\classes_ae132f49f30b339693a02a6c07705bb55c69c1ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jsyoon\.android\build-cache\a11c508cc5be6b0bb03420440f9a635cb5929219\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Working\smartphonetemple2\app\build\intermediates\pre-dexed\debug\classes_83f21182f7248823783a46a11b0ee9437c2f2fd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jsyoon\.android\build-cache\b9c55f659fc8567cc54524a6a1e2cc9e17de7484\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="421a5cebe9ff187c98075c59786e9464c5c67d36">
+        <dex dex="D:\Working\smartphonetemple2\app\build\intermediates\pre-dexed\debug\classes_7b3d9d84b51c88a43d5d36db015b03ec5ce46ce6.jar" />
+    </item>
+
+</items>

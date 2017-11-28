@@ -1,0 +1,149 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.smartphonetemple2.sensor.SensorActivity"
+     >
+    
+    <LinearLayout
+        android:id="@+id/top_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_alignParentTop="true"
+        android:gravity="center_vertical"
+        >
+        
+        <ImageView
+            android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:layout_marginLeft="10dp"
+        	android:background="@drawable/sensor_icon"
+            />
+        
+        <ImageView
+            android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:layout_marginLeft="10dp"
+        	android:background="@drawable/sensor_start_guard"
+            />
+        
+    </LinearLayout>
+
+    <TabHost
+        android:id="@+id/tabHost"
+        android:layout_above="@+id/bottomPanel"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/top_layout"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TabWidget
+                android:id="@android:id/tabs"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <FrameLayout
+                android:id="@android:id/tabcontent"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/divide_tab1">
+
+                <LinearLayout
+                    android:id="@+id/tabBridge"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"                    
+                    android:orientation="vertical">                    
+
+        			<FrameLayout
+            			android:id="@+id/fragment_container1"
+            			android:layout_width="match_parent"
+            			android:layout_height="match_parent">
+        			</FrameLayout>
+                    
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/tabGate1"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"                    
+                    android:orientation="vertical">
+
+        			<FrameLayout
+            			android:id="@+id/fragment_container2"
+            			android:layout_width="match_parent"
+            			android:layout_height="match_parent">
+        			</FrameLayout>
+        			
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/tabGate2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"                    
+                    android:orientation="vertical">
+
+        			<FrameLayout
+            			android:id="@+id/fragment_container3"
+            			android:layout_width="match_parent"
+            			android:layout_height="match_parent">
+        			</FrameLayout>
+        			
+                </LinearLayout>
+            </FrameLayout>
+        </LinearLayout>
+    </TabHost> 
+ 
+    <LinearLayout
+        android:id="@id/bottomPanel"
+        android:layout_alignParentBottom="true"
+        android:gravity="center_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:orientation="horizontal">
+        
+        <ToggleButton
+            android:id="@+id/btnTotalSensor"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" 
+            android:layout_marginRight="20dp"
+            android:onClick="onSensorButtonClicked"
+            android:background="@drawable/selector_total_sensor_icon"
+            android:textOff=""
+            android:textOn=""
+            android:clickable="true"
+             />
+
+        <ToggleButton
+            android:id="@+id/btnMeasureSensor"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onSensorButtonClicked"
+            android:background="@drawable/selector_measure_sensor_icon"
+            android:textOff=""
+            android:textOn=""
+             />
+        
+        <ToggleButton
+            android:id="@+id/btnFireSensor"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:onClick="onSensorButtonClicked"
+            android:background="@drawable/selector_fire_sensor_icon" 
+            android:textOff=""
+            android:textOn=""
+            />
+        
+    </LinearLayout>
+
+</RelativeLayout>

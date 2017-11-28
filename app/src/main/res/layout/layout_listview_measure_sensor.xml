@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="1dp"
+        android:layout_marginRight="1dp"
+        android:background="@drawable/measure_value" >
+
+        <TextView
+            android:id="@+id/text_measure_location"
+            android:layout_width="@dimen/listview_col1_width"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textColor="#FFF" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="1dp"
+        android:layout_marginRight="1dp"
+        android:background="@drawable/measure_value" >
+
+        <TextView
+            android:id="@+id/text_measure_name"
+            android:layout_width="@dimen/listview_col2_width"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textColor="#FFF" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="1dp"
+        android:layout_marginRight="1dp"
+        android:background="@drawable/measure_value" >
+
+        <TextView
+            android:id="@+id/text_measure_id"
+            android:layout_width="@dimen/listview_col3_width"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textColor="#FFF" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="1dp"
+        android:layout_marginRight="1dp"
+        android:background="@drawable/measure_value" >
+
+        <TextView
+            android:id="@+id/text_measure_status"
+            android:layout_width="@dimen/listview_col4_width"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textColor="#FFF" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="1dp"
+        android:layout_marginRight="1dp"
+        android:background="@drawable/measure_value" >
+
+        <TextView
+            android:id="@+id/text_measure_event"
+            android:layout_width="@dimen/listview_col5_width"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textColor="#FFF" />
+    </RelativeLayout>
+
+</LinearLayout>

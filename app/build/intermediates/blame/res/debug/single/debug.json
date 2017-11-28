@@ -1,0 +1,730 @@
+[
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_real_time_movie.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\real_time_movie.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_gatehouse1_off.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\gatehouse1_off.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_emergency_call.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\emergency_call.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\99358c40921c7d4fda8d9fdfa40e79ea\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_total_sensor_icon_off.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\total_sensor_icon_off.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_iconb.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-hdpi\\iconb.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\99358c40921c7d4fda8d9fdfa40e79ea\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\ef5f1a04ed66693663c6ad671fce507a\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_total_sensor_icon.xml.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable\\selector_total_sensor_icon.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_sensor_start_guard.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\sensor_start_guard.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_gatehouse1.xml.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable\\selector_gatehouse1.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_measure_event.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\measure_event.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\ef5f1a04ed66693663c6ad671fce507a\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_divide_tab1.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\divide_tab1.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_gatehouse2_on.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\gatehouse2_on.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_disabled.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable-xhdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_logout.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\logout.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\99358c40921c7d4fda8d9fdfa40e79ea\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\99358c40921c7d4fda8d9fdfa40e79ea\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_measure_name.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\measure_name.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_all_channal.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\all_channal.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_measure_value.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\measure_value.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\99358c40921c7d4fda8d9fdfa40e79ea\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_live_popup_back.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\live_popup_back.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_intro.xml.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\layout\\activity_intro.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_fire_sensor_off.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\fire_sensor_off.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_bridge.xml.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable\\selector_bridge.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\99358c40921c7d4fda8d9fdfa40e79ea\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_listview_total_sensor.xml.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\layout\\layout_listview_total_sensor.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_fire_sensor.xml.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\layout\\fragment_fire_sensor.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_tint.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\99358c40921c7d4fda8d9fdfa40e79ea\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_measure_sensor.xml.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\layout\\fragment_measure_sensor.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_real_time_icon.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\real_time_icon.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable-xhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_normal.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_background_alert.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\background_alert.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_background_3.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\background_3.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\ef5f1a04ed66693663c6ad671fce507a\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sensor.xml.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\layout\\activity_sensor.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_background_danger.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\background_danger.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\menu_sensor.xml.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\menu\\sensor.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\99358c40921c7d4fda8d9fdfa40e79ea\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\99358c40921c7d4fda8d9fdfa40e79ea\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_disabled.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_channel_list.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\channel_list.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_measure_sensor_icon.xml.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable\\selector_measure_sensor_icon.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\99358c40921c7d4fda8d9fdfa40e79ea\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\99358c40921c7d4fda8d9fdfa40e79ea\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_sensor_icon_temp.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\sensor_icon_temp.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_focused.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_live_player_btn.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\live_player_btn.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\ef5f1a04ed66693663c6ad671fce507a\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_sensor_monitor.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\sensor_monitor.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_metal_bar.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\metal_bar.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_send_on.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\send_on.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_fire_sensor_on.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\fire_sensor_on.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_measure_stat.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\measure_stat.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light_focused.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\99358c40921c7d4fda8d9fdfa40e79ea\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\99358c40921c7d4fda8d9fdfa40e79ea\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_bridge_on.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\bridge_on.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\ef5f1a04ed66693663c6ad671fce507a\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_real_time_background.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\real_time_background.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_connect_3.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\connect_3.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_divide_tab2.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\divide_tab2.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\99358c40921c7d4fda8d9fdfa40e79ea\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_record_off.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\record_off.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\99358c40921c7d4fda8d9fdfa40e79ea\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_alert_broad.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\alert_broad.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light_normal.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_send_off.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\send_off.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\ef5f1a04ed66693663c6ad671fce507a\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_fire2_on.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\fire2_on.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_live_popup_small.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\live_popup_small.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\99358c40921c7d4fda8d9fdfa40e79ea\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\99358c40921c7d4fda8d9fdfa40e79ea\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_mesure_sensor_icon_off.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\mesure_sensor_icon_off.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_top_text_alarm.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\top_text_alarm.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_channal.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\channal.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\ef5f1a04ed66693663c6ad671fce507a\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_cctv_monitor.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\cctv_monitor.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\99358c40921c7d4fda8d9fdfa40e79ea\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\99358c40921c7d4fda8d9fdfa40e79ea\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_total_sensor.xml.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\layout\\fragment_total_sensor.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\ef5f1a04ed66693663c6ad671fce507a\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_bridge_off.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\bridge_off.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_measure_id.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\measure_id.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\99358c40921c7d4fda8d9fdfa40e79ea\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\99358c40921c7d4fda8d9fdfa40e79ea\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_stop.xml.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable\\selector_stop.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_measure_place.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\measure_place.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\99358c40921c7d4fda8d9fdfa40e79ea\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_sensor_icon_backgroud.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\sensor_icon_backgroud.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_live.xml.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\layout\\fragment_live.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_system_setting.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\system_setting.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_normal.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_setting.xml.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_alert_broad2.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\alert_broad2.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_gatehouse1_on.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\gatehouse1_on.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\99358c40921c7d4fda8d9fdfa40e79ea\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_send.xml.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable\\selector_send.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_total_sensor_icon_on.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\total_sensor_icon_on.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\ef5f1a04ed66693663c6ad671fce507a\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_measure_tab.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\measure_tab.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\99358c40921c7d4fda8d9fdfa40e79ea\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_background_caution.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\background_caution.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_help.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\help.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_connect_1.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\connect_1.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\99358c40921c7d4fda8d9fdfa40e79ea\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_main_background.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\main_background.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\99358c40921c7d4fda8d9fdfa40e79ea\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_check_facilities.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\check_facilities.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\99358c40921c7d4fda8d9fdfa40e79ea\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_top_icon_alarm.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\top_icon_alarm.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_gatehouse2.xml.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable\\selector_gatehouse2.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\99358c40921c7d4fda8d9fdfa40e79ea\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_alert_broad1.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\alert_broad1.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_sensor_icon_humidity.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\sensor_icon_humidity.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_focused.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_fire1_on.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\fire1_on.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_top_bar.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\top_bar.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_record_on.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\record_on.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_stop_off.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\stop_off.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_fire2_off.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\fire2_off.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_connect_2.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\connect_2.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_sensor_icon_smoke.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\sensor_icon_smoke.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_record.xml.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable\\selector_record.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable-xhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\99358c40921c7d4fda8d9fdfa40e79ea\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_fire_sensor_icon.xml.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable\\selector_fire_sensor_icon.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\99358c40921c7d4fda8d9fdfa40e79ea\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_dark.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_stop_on.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\stop_on.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_live.xml.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\layout\\activity_live.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_liveplayer.xml.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\layout\\dialog_liveplayer.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_channel_background.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\channel_background.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_light.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_listview_measure_sensor.xml.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\layout\\layout_listview_measure_sensor.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_gatehouse2_off.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\gatehouse2_off.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_background_interest.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\background_interest.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_sensor_icon_stat.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\sensor_icon_stat.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_mesure_sensor_icon_on.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\mesure_sensor_icon_on.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_listview_fire_sensor.xml.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\layout\\layout_listview_fire_sensor.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_sensor_icon.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\sensor_icon.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\menu_live.xml.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\menu\\live.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_intro.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\intro.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_menu_tab.xml.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\layout\\view_menu_tab.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_fire1_off.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\fire1_off.png"
+    }
+]

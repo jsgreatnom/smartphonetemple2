@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\live.xml",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\menu\\live.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\sensor.xml",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\menu\\sensor.xml"
+    }
+]

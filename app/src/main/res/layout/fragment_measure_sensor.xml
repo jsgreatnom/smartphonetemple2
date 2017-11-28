@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_background"
+    android:orientation="vertical" >
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp"
+         >
+
+        <RelativeLayout
+            android:layout_width="@dimen/listview_col1_width"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="1dp"
+       		android:layout_marginRight="1dp"
+            android:background="@drawable/measure_value" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/measure_place" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="@dimen/listview_col2_width"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="1dp"
+       		android:layout_marginRight="1dp"
+            android:background="@drawable/measure_value" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/measure_name" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="@dimen/listview_col3_width"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="1dp"
+       		android:layout_marginRight="1dp"
+            android:background="@drawable/measure_value" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/measure_id" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="@dimen/listview_col4_width"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="1dp"
+       		android:layout_marginRight="1dp"
+            android:background="@drawable/measure_value" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/measure_stat" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="@dimen/listview_col5_width"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="1dp"
+       		android:layout_marginRight="1dp"
+            android:background="@drawable/measure_value" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/measure_event" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/listview_measure_sensor"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:divider="#00000000"
+        android:dividerHeight="10dp"
+        android:padding="10dp" />
+
+</LinearLayout>
