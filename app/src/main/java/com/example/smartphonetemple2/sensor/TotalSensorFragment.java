@@ -4,7 +4,6 @@ import android.app.Fragment;
 import android.content.Context;
 import android.os.Bundle;
 import android.os.Handler;
-import android.os.Message;
 import android.support.v7.widget.DefaultItemAnimator;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
@@ -121,7 +120,8 @@ public class TotalSensorFragment extends Fragment {
 
 				e.printStackTrace();
 
-				mHandler.sendEmptyMessage(CommonData.REQUEST_FAIL);
+				Toast.makeText(mContext, mContext.getString(R.string.total_sensor_request_fail_messsage), Toast.LENGTH_SHORT).show();
+//				mHandler.sendEmptyMessage(CommonData.REQUEST_FAIL);
 			}
 
 			@Override
@@ -136,10 +136,26 @@ public class TotalSensorFragment extends Fragment {
 					Gson gson = new Gson();
 					mSensorTotalData = gson.fromJson(jsonData, SensorTotalData.class);
 
-					mHandler.sendEmptyMessage(CommonData.UI_UPDATE);
+//					mHandler.sendEmptyMessage(CommonData.UI_UPDATE);
+					mHandler.post(new Runnable() {
+						@Override
+						public void run() {
+							if(mSensorTotalData != null) {
+								mSensorListViewAdapter.setmSensorDataList(mSensorTotalData.getData());
+								mSensorListViewAdapter.notifyDataSetChanged();
+							}
+						}
+					});
 
 					// 2초 뒤 센서값 요청
-					mHandler.sendEmptyMessageDelayed(CommonData.REQUEST_SERVER, 2000);
+//					mHandler.sendEmptyMessageDelayed(CommonData.REQUEST_SERVER, 2000);
+//					mHandler.postDelayed(sensorInterface, 2000);
+					mHandler.postDelayed(new Runnable() {
+						@Override
+						public void run() {
+							requestNetSensorInfo();
+						}
+					}, 2000);
 
 				} catch (IOException e) {
 					e.printStackTrace();
@@ -147,8 +163,10 @@ public class TotalSensorFragment extends Fragment {
 			}
 		});
 	}
-		
-	private Handler mHandler = new Handler() {
+
+
+
+	private Handler mHandler = new Handler(); /*{
 
 		@Override
 		public void handleMessage(Message msg) {
@@ -161,15 +179,15 @@ public class TotalSensorFragment extends Fragment {
 					mSensorListViewAdapter.notifyDataSetChanged();
 				}
 
-			}else if(msg.what == CommonData.REQUEST_SERVER){
+			}*//*else if(msg.what == CommonData.REQUEST_SERVER){
 
 				requestNetSensorInfo();
 
-			}else if(msg.what == CommonData.REQUEST_FAIL){
+			}*//*else if(msg.what == CommonData.REQUEST_FAIL){
 
 				Toast.makeText(mContext, mContext.getString(R.string.total_sensor_request_fail_messsage), Toast.LENGTH_SHORT).show();
 
 			}
 		}
-	};	
+	};*/
 }

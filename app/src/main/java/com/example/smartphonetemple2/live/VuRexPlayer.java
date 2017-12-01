@@ -17,7 +17,6 @@ import com.example.smartphonetemple2.R;
 import com.kimdh.dxmediaplayer.DXMediaPlayer;
 import com.kimdh.dxmediaplayer.DXMediaPlayer.AsyncResultListener;
 import com.kimdh.dxmediaplayer.DXMediaPlayer.DXEventListener;
-import com.kimdh.dxmediaplayer.DXMediaPlayer.PLAYER_STATE;
 import com.kimdh.dxmediaplayer.DXMediaPlayerFrame;
 import com.kimdh.dxmediaplayer.DXMediaPlayerFrame.DXGestureEventListener;
 
@@ -199,22 +198,50 @@ public class VuRexPlayer extends LinearLayout implements DXGestureEventListener,
 
 		Log.d(TAG, "DB port - " + port);
 
-		if (port == 3554) {
-			return "서쪽상부-3";
-		} else if (port == 4554) {
-			return "동쪽상부-3";
-		} else if (port == 1054) {
-			return "서쪽상부-2";
-		} else if (port == 6554) {
-			return "동쪽상부-2";
-		} else if (port == 7554) {
+		if (port == 10203) {
 			return "서쪽상부-1";
-		} else if (port == 8554) {
-			return "동쪽상부-1";
-		} else if (port == 9554) {
+		} else if (port == 10303) {
+			return "서쪽상부-2";
+		} else if (port == 10403) {
+			return "서쪽상부-3";
+		} else if (port == 10503) {
 			return "서쪽상부-4";
-		} else if (port == 2554) {
+		} else if (port == 10603) {
+			return "동쪽상부-1";
+		} else if (port == 10703) {
+			return "동쪽상부-2";
+		} else if (port == 10803) {
+			return "동쪽상부-3";
+		} else if (port == 10903) {
 			return "동쪽상부-4";
+		} else if (port == 13103) {
+			return "1층상부1";
+		} else if (port == 13203) {
+			return "1층상부2";
+		} else if (port == 13303) {
+			return "1층상부3";
+		} else if (port == 13403) {
+			return "1층상부4";
+		} else if (port == 13503) {
+			return "2층상부1";
+		} else if (port == 13603) {
+			return "2층상부2";
+		} else if (port == 13703) {
+			return "2층상부3";
+		} else if (port == 14103) {
+			return "1층상부1";
+		} else if (port == 14203) {
+			return "1층상부2";
+		} else if (port == 14303) {
+			return "1층상부3";
+		} else if (port == 14403) {
+			return "1층상부4";
+		} else if (port == 14503) {
+			return "2층상부1";
+		} else if (port == 14603) {
+			return "2층상부2";
+		} else if (port == 14703) {
+			return "2층상부3";
 		} else {
 			return "";
 		}

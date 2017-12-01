@@ -4,12 +4,12 @@
         "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\real_time_movie.png"
     },
     {
-        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_gatehouse1_off.png.flat",
-        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\gatehouse1_off.png"
-    },
-    {
         "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_emergency_call.png.flat",
         "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\emergency_call.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_gatehouse1_off.png.flat",
+        "source": "D:\\Working\\smartphonetemple2\\app\\src\\main\\res\\drawable-xxxhdpi\\gatehouse1_off.png"
     },
     {
         "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",

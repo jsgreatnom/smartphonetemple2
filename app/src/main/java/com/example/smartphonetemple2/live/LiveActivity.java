@@ -1,7 +1,5 @@
 package com.example.smartphonetemple2.live;
 
-import com.example.smartphonetemple2.R;
-
 import android.app.Activity;
 import android.app.Fragment;
 import android.app.FragmentManager;
@@ -16,11 +14,16 @@ import android.widget.ImageView;
 import android.widget.TabHost;
 import android.widget.TabHost.OnTabChangeListener;
 
+import com.example.smartphonetemple2.R;
+
 public class LiveActivity extends Activity implements OnTabChangeListener {
 	private TabHost mTabHost;
 	
 	private final int TAB_NUM = 3;
-	
+	private final int TAB1_CAMERA_CHANNEL = 8;
+	private final int TAB2_CAMERA_CHANNEL = 7;
+	private final int TAB3_CAMERA_CHANNEL = 7;
+
 	private LiveFragment[] mLiveFragment = new LiveFragment[TAB_NUM];
 	private Fragment[] mCurrentFragment = new Fragment[TAB_NUM];
 	
@@ -52,9 +55,9 @@ public class LiveActivity extends Activity implements OnTabChangeListener {
         
         mTabHost.setOnTabChangedListener(this);
         
-        mLiveFragment[0] = new LiveFragment("교량");
-        mLiveFragment[1] = new LiveFragment("문루1");
-        mLiveFragment[2] = new LiveFragment("문루2");
+        mLiveFragment[0] = new LiveFragment("교량", TAB1_CAMERA_CHANNEL);
+        mLiveFragment[1] = new LiveFragment("문루1", TAB2_CAMERA_CHANNEL);
+        mLiveFragment[2] = new LiveFragment("문루2", TAB3_CAMERA_CHANNEL);
         
 	    FragmentManager fm = getFragmentManager();
 	    
@@ -90,7 +93,7 @@ public class LiveActivity extends Activity implements OnTabChangeListener {
 		int index = mTabHost.getCurrentTab();
 		for (int i=0; i<TAB_NUM; i++) {
 			if (i == index) {
-				mLiveFragment[i].connectPlay();			
+				mLiveFragment[i].connectPlay(index);
 			} else {
 				mLiveFragment[i].closeAll();
 			}
@@ -119,6 +122,6 @@ public class LiveActivity extends Activity implements OnTabChangeListener {
 	@Override
 	protected void onStart() {
 		super.onStart();
-		mLiveFragment[0].connectPlay();
+		mLiveFragment[0].connectPlay(0);
 	}	
 }

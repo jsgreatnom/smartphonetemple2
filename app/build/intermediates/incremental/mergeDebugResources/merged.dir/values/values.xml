@@ -157,8 +157,8 @@
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
     <string name="database_admin">root</string>
-    <string name="database_ip">118.45.29.69</string>
-    <string name="database_port">3306</string>
+    <string name="database_ip">183.106.182.239</string>
+    <string name="database_port">8080</string>
     <string name="database_pw">SIBMS</string>
     <string name="fire_sensor_off">정상</string>
     <string name="fire_sensor_on">감지</string>
@@ -183,18 +183,14 @@
     <string name="url_prevention_info">http://%1$s:%2$s/sensor2.php?WORK=1&amp;CURRENT_TIME=%3$s</string>
     <string name="url_upload_path">http://183.106.182.146:3306/upload.php</string>
     <style name="AppBaseTheme" parent="android:Theme.Light">
-        <!--
-            Theme customizations available in newer API levels can go in
-            res/values-vXX/styles.xml, while customizations related to
-            backward-compatibility can go here.
-        -->
+        
     </style>
     <style name="AppDialogTheme" parent="@android:style/Theme.Dialog">
         <item name="android:windowBackground">@android:color/black</item>
         <item name="android:windowNoTitle">true</item>
     </style>
     <style name="AppTheme" parent="AppBaseTheme">
-        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        
     </style>
     <style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.StatusBar.EventContent"/>
     <style name="TextAppearance.Compat.Notification.Info">

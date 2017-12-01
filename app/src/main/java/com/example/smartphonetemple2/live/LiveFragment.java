@@ -1,31 +1,25 @@
 package com.example.smartphonetemple2.live;
 
-import com.example.smartphonetemple2.R;
-import com.example.smartphonetemple2.data.CommonData;
-import com.example.smartphonetemple2.db.DataDB;
-import com.example.smartphonetemple2.db.DataDB.DataColumns;
-import com.kimdh.dxmediaplayer.DXMediaPlayerFrame;
-
 import android.app.Fragment;
 import android.content.Context;
 import android.content.res.Configuration;
-import android.database.Cursor;
 import android.graphics.drawable.Drawable;
-import android.net.Uri;
 import android.os.Bundle;
 import android.util.DisplayMetrics;
 import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.MotionEvent;
 import android.view.View;
-import android.view.View.OnClickListener;
 import android.view.ViewGroup;
 import android.widget.GridLayout;
+
+import com.example.smartphonetemple2.R;
+import com.kimdh.dxmediaplayer.DXMediaPlayerFrame;
 
 public class LiveFragment extends Fragment implements VuRexPlayer.DXGestureEventListener{
 	private static final String TAG = LiveFragment.class.getSimpleName();
 	
-	private static final int MAX_CHANNEL = 7;
+//	private static final int MAX_CHANNEL = 8;
 	
 	private final int PLAYER_SIZE_WIDTH_PORTRAIT = 175;
 	private final int PLAYER_SIZE_HEIGHT_PORTRAIT = 150;
@@ -49,9 +43,11 @@ public class LiveFragment extends Fragment implements VuRexPlayer.DXGestureEvent
 	private View mView;
 	
 	private String mName;
+	private int maxChannel = 0;
 	
-	public LiveFragment(String name) {
-		mName = name;		
+	public LiveFragment(String name, int maxChannel) {
+		mName = name;
+		this.maxChannel = maxChannel;
 	}
 
 	@Override
@@ -66,7 +62,7 @@ public class LiveFragment extends Fragment implements VuRexPlayer.DXGestureEvent
 		
 		GridLayout gridPlayer = (GridLayout)view.findViewById(R.id.layout_player);
 		
-		for (int i=0; i<MAX_CHANNEL; i++) {									
+		for (int i=0; i<maxChannel; i++) {
 			VuRexPlayer player = new VuRexPlayer(getActivity());
 			player.setTag(i);
 			player.setGestureEventListener(this);
@@ -122,7 +118,7 @@ public class LiveFragment extends Fragment implements VuRexPlayer.DXGestureEvent
 		return player;
 	}
 	
-	public void connectPlay() {
+	public void connectPlay(int index) {
 		
 		
 //		Cursor c = DataDB.getInstance(mContext).getIpPort(null, null, null, DataColumns.COLUMN_STR_CAMERA1_IP + " desc");
@@ -138,33 +134,35 @@ public class LiveFragment extends Fragment implements VuRexPlayer.DXGestureEvent
 		
 //		String url = "rtsp://192.168.1.211/stream1";
 //		url = "rtsp://admin:4321@118.45.29.69:2554/profile2/media.smp";
-		
-//		url[0] = "rtsp://admin:4321@118.45.29.69:2554/profile2/media.smp";
-//		url[1] = "rtsp://admin:4321@118.45.29.69:3554/profile2/media.smp";
-//		url[2] = "rtsp://admin:4321@118.45.29.69:1054/profile2/media.smp";
-//		url[3] = "rtsp://admin:4321@118.45.29.69:6554/profile2/media.smp";
-//		url[4] = "rtsp://admin:4321@118.45.29.69:7554/profile2/media.smp";
-//		url[5] = "rtsp://admin:4321@118.45.29.69:8554/profile2/media.smp";
-//		url[6] = "rtsp://admin:4321@118.45.29.69:4554/profile2/media.smp";
-//		url[7] = "rtsp://admin:!12345678u@118.45.29.69:9554/profile2/media.smp";
 
-		url[0] = "rtsp://admin:admin7076**@183.106.182.239:13103/profile2/media.smp";
-		url[1] = "rtsp://admin:admin7076**@183.106.182.239:13203/profile2/media.smp";
-		url[2] = "rtsp://admin:admin7076**@183.106.182.239:13303/profile2/media.smp";
-		url[3] = "rtsp://admin:admin7076**@183.106.182.239:13403/profile2/media.smp";
-		url[4] = "rtsp://admin:admin7076**@183.106.182.239:13503/profile2/media.smp";
-		url[5] = "rtsp://admin:admin7076**@183.106.182.239:13603/profile2/media.smp";
-		url[6] = "rtsp://admin:admin7076**@183.106.182.239:13703/profile2/media.smp";
+		if (index == 0) {
+			url[0] = "rtsp://admin:4321@183.106.182.239:10203/profile2/media.smp";
+			url[1] = "rtsp://admin:4321@183.106.182.239:10303/profile2/media.smp";
+			url[2] = "rtsp://admin:4321@183.106.182.239:10403/profile2/media.smp";
+			url[3] = "rtsp://admin:4321@183.106.182.239:10503/profile2/media.smp";
+			url[4] = "rtsp://admin:4321@183.106.182.239:10603/profile2/media.smp";
+			url[5] = "rtsp://admin:4321@183.106.182.239:10703/profile2/media.smp";
+			url[6] = "rtsp://admin:4321@183.106.182.239:10803/profile2/media.smp";
+			url[7] = "rtsp://admin:4321@183.106.182.239:10903/profile2/media.smp";
+		} else if(index == 1){
+			url[0] = "rtsp://admin:admin7076**@183.106.182.239:13103/profile2/media.smp";
+			url[1] = "rtsp://admin:admin7076**@183.106.182.239:13203/profile2/media.smp";
+			url[2] = "rtsp://admin:admin7076**@183.106.182.239:13303/profile2/media.smp";
+			url[3] = "rtsp://admin:admin7076**@183.106.182.239:13403/profile2/media.smp";
+			url[4] = "rtsp://admin:admin7076**@183.106.182.239:13503/profile2/media.smp";
+			url[5] = "rtsp://admin:admin7076**@183.106.182.239:13603/profile2/media.smp";
+			url[6] = "rtsp://admin:admin7076**@183.106.182.239:13703/profile2/media.smp";
+		} else if(index == 2){
+			url[0] = "rtsp://admin:admin7076**@183.106.182.239:14103/profile2/media.smp";
+			url[1] = "rtsp://admin:admin7076**@183.106.182.239:14203/profile2/media.smp";
+			url[2] = "rtsp://admin:admin7076**@183.106.182.239:14303/profile2/media.smp";
+			url[3] = "rtsp://admin:admin7076**@183.106.182.239:14403/profile2/media.smp";
+			url[4] = "rtsp://admin:admin7076**@183.106.182.239:14503/profile2/media.smp";
+			url[5] = "rtsp://admin:admin7076**@183.106.182.239:14603/profile2/media.smp";
+			url[6] = "rtsp://admin:admin7076**@183.106.182.239:14703/profile2/media.smp";
+		}
 
-//		url[0] = "rtsp://admin:admin7076**@183.106.182.239:14103/profile2/media.smp";
-//		url[1] = "rtsp://admin:admin7076**@183.106.182.239:14203/profile2/media.smp";
-//		url[2] = "rtsp://admin:admin7076**@183.106.182.239:14303/profile2/media.smp";
-//		url[3] = "rtsp://admin:admin7076**@183.106.182.239:14403/profile2/media.smp";
-//		url[4] = "rtsp://admin:admin7076**@183.106.182.239:14503/profile2/media.smp";
-//		url[5] = "rtsp://admin:admin7076**@183.106.182.239:14603/profile2/media.smp";
-//		url[6] = "rtsp://admin:admin7076**@183.106.182.239:1703/profile2/media.smp";
-
-		for (int i=0; i<MAX_CHANNEL; i++) {
+		for (int i=0; i<maxChannel; i++) {
 			VuRexPlayer player = getPlayer(i);
 			player.connectPlayAsync(url[i]);
 			// 클릭시 영상 확대
@@ -184,7 +182,7 @@ public class LiveFragment extends Fragment implements VuRexPlayer.DXGestureEvent
 	}
 	
 	public void close(int index) {
-		if (index < MAX_CHANNEL) {
+		if (index < maxChannel) {
 			VuRexPlayer player = getPlayer(index);
 			if (player != null) {
 				player.close();
@@ -197,7 +195,7 @@ public class LiveFragment extends Fragment implements VuRexPlayer.DXGestureEvent
 	}
 	
 	public void closeAll() {
-		for (int i=0; i<MAX_CHANNEL; i++) {
+		for (int i=0; i<maxChannel; i++) {
 			close(i);
 		}
 	}

@@ -146,6 +146,18 @@ public class SensorActivity extends Activity implements OnTabChangeListener {
 	@Override
 	public void onTabChanged(String tabId) {
 		System.out.println("Tab Index : " + tabId);
+		int index = mTabHost.getCurrentTab();
+		for (int i=0; i<TAB_NUM; i++) {
+			if (i == index) {
+//				mTotalSensorFragment[index]
+//				mMeasureSensorFragment[index]
+//				mFireSensorFragment[index]
+			}else{
+//				mTotalSensorFragment[index].stopHandler();
+//				mMeasureSensorFragment[index].stopHandler();
+//				mFireSensorFragment[index].stopHandler();
+			}
+		}
 	}
 	
 	public void onSensorButtonClicked(View v) {

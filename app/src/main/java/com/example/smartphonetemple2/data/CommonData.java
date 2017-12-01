@@ -19,6 +19,7 @@ public class CommonData {  // 공통 데이터
 	public static final int REQUEST_SERVER = 10000;
 	public static final int UI_UPDATE = 10001;
 	public static final int REQUEST_FAIL = 10002;
+	public static final int REQUEST_STOP = 10003;
 
 	public static boolean dbFlag = false;  // Local DB 세팅 여부  
 	
