@@ -36,6 +36,8 @@ public class TotalSensorFragment extends Fragment {
 
 	private String mSensorInfoUrl;
 
+	private Handler mHandler = new Handler();
+
 	public TotalSensorFragment(){
 
 	}
@@ -117,11 +119,14 @@ public class TotalSensorFragment extends Fragment {
 			@Override
 			public void onFailure(Call call, IOException e) {
 
-
 				e.printStackTrace();
 
-				Toast.makeText(mContext, mContext.getString(R.string.total_sensor_request_fail_messsage), Toast.LENGTH_SHORT).show();
-//				mHandler.sendEmptyMessage(CommonData.REQUEST_FAIL);
+				mHandler.post(new Runnable() {
+					@Override
+					public void run() {
+						Toast.makeText(mContext, mContext.getString(R.string.total_sensor_request_fail_messsage), Toast.LENGTH_SHORT).show();
+					}
+				});
 			}
 
 			@Override
@@ -136,7 +141,6 @@ public class TotalSensorFragment extends Fragment {
 					Gson gson = new Gson();
 					mSensorTotalData = gson.fromJson(jsonData, SensorTotalData.class);
 
-//					mHandler.sendEmptyMessage(CommonData.UI_UPDATE);
 					mHandler.post(new Runnable() {
 						@Override
 						public void run() {
@@ -148,14 +152,7 @@ public class TotalSensorFragment extends Fragment {
 					});
 
 					// 2초 뒤 센서값 요청
-//					mHandler.sendEmptyMessageDelayed(CommonData.REQUEST_SERVER, 2000);
-//					mHandler.postDelayed(sensorInterface, 2000);
-					mHandler.postDelayed(new Runnable() {
-						@Override
-						public void run() {
-							requestNetSensorInfo();
-						}
-					}, 2000);
+					mHandler.postDelayed(requestSensorValue, 2000);
 
 				} catch (IOException e) {
 					e.printStackTrace();
@@ -164,30 +161,11 @@ public class TotalSensorFragment extends Fragment {
 		});
 	}
 
-
-
-	private Handler mHandler = new Handler(); /*{
-
+	Runnable requestSensorValue = new Runnable() {
 		@Override
-		public void handleMessage(Message msg) {
-			super.handleMessage(msg);
-
-			if(msg.what == CommonData.UI_UPDATE){
-
-				if(mSensorTotalData != null) {
-					mSensorListViewAdapter.setmSensorDataList(mSensorTotalData.getData());
-					mSensorListViewAdapter.notifyDataSetChanged();
-				}
-
-			}*//*else if(msg.what == CommonData.REQUEST_SERVER){
-
-				requestNetSensorInfo();
-
-			}*//*else if(msg.what == CommonData.REQUEST_FAIL){
-
-				Toast.makeText(mContext, mContext.getString(R.string.total_sensor_request_fail_messsage), Toast.LENGTH_SHORT).show();
-
-			}
+		public void run() {
+			requestNetSensorInfo();
 		}
-	};*/
+	};
+
 }

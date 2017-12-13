@@ -35,7 +35,7 @@
     <string name="playback_failed">연결 실패</string>
 
     <string name="database_ip">183.106.182.239</string>
-    <string name="database_port">8080</string>
+    <string name="database_port">80</string>
     <string name="database_admin">root</string>
     <string name="database_pw">SIBMS</string>
 

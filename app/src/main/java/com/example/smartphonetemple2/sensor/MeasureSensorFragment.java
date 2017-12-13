@@ -4,7 +4,6 @@ import android.app.Fragment;
 import android.content.Context;
 import android.os.Bundle;
 import android.os.Handler;
-import android.os.Message;
 import android.support.v7.widget.DefaultItemAnimator;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
@@ -35,6 +34,8 @@ public class MeasureSensorFragment extends Fragment {
     private MeasureTotalData mMeasureTotalData;
     private MeasureSensorListViewAdapter mSensorListViewAdapter;
     private String mMeasureInfoUrl;
+
+    private Handler mHandler = new Handler();
 
     public MeasureSensorFragment() {
 
@@ -115,7 +116,12 @@ public class MeasureSensorFragment extends Fragment {
         call.enqueue(new Callback() {
             @Override
             public void onFailure(Call call, IOException e) {
-                mHandler.sendEmptyMessage(CommonData.REQUEST_FAIL);
+                mHandler.post(new Runnable() {
+                    @Override
+                    public void run() {
+                        Toast.makeText(mContext, mContext.getString(R.string.measure_sensor_request_fail_messsage), Toast.LENGTH_SHORT).show();
+                    }
+                });
             }
 
             @Override
@@ -130,9 +136,18 @@ public class MeasureSensorFragment extends Fragment {
                     Gson gson = new Gson();
                     mMeasureTotalData = gson.fromJson(jsonData, MeasureTotalData.class);
 
-                    mHandler.sendEmptyMessage(CommonData.UI_UPDATE);
+                    mHandler.post(new Runnable() {
+                        @Override
+                        public void run() {
+                            if (mMeasureTotalData != null) {
+                                mSensorListViewAdapter.notifyDataSetChanged();
+                                mSensorListViewAdapter.setmMeasureDataList(mMeasureTotalData.getData());
+                            }
+                        }
+                    });
+
                     // 2초 뒤 센서값 요청
-                    mHandler.sendEmptyMessageDelayed(CommonData.REQUEST_SERVER, 2000);
+                    mHandler.postDelayed(sensorUpdateValue, 2000);
 
 
                 } catch (IOException e) {
@@ -142,26 +157,11 @@ public class MeasureSensorFragment extends Fragment {
         });
     }
 
-    private Handler mHandler = new Handler() {
+    Runnable sensorUpdateValue = new Runnable() {
         @Override
-        public void handleMessage(Message msg) {
-            super.handleMessage(msg);
-            if (msg.what == CommonData.UI_UPDATE) {
-
-                if (mMeasureTotalData != null) {
-
-                    mSensorListViewAdapter.notifyDataSetChanged();
-                    mSensorListViewAdapter.setmMeasureDataList(mMeasureTotalData.getData());
-                }
-            }else if(msg.what == CommonData.REQUEST_SERVER){
-
-                requestNetMeasurInfo();
-
-            }else if(msg.what == CommonData.REQUEST_FAIL){
-
-                Toast.makeText(mContext, mContext.getString(R.string.measure_sensor_request_fail_messsage), Toast.LENGTH_SHORT).show();
-
-            }
+        public void run() {
+            requestNetMeasurInfo();
         }
     };
+
 }

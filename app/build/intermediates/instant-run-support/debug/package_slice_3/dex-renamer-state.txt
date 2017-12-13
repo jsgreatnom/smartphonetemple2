@@ -1,4 +1,4 @@
-#Fri Dec 01 11:41:35 KST 2017
-base.0=D\:\\Working\\smartphonetemple2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\42
+#Mon Dec 04 11:46:17 KST 2017
+base.0=D\:\\Working\\smartphonetemple2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
 path.0=classes.dex
 renamed.0=classes.dex

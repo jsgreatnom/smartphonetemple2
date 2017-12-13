@@ -1,19 +1,19 @@
 [
     {
-        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\99358c40921c7d4fda8d9fdfa40e79ea\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
-    },
-    {
         "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
         "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\99358c40921c7d4fda8d9fdfa40e79ea\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
     },
     {
-        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_common_google_signin_btn_icon_light_normal.xml.flat",
-        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\99358c40921c7d4fda8d9fdfa40e79ea\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
         "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_notification_icon_background.xml.flat",
         "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\99358c40921c7d4fda8d9fdfa40e79ea\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_common_google_signin_btn_icon_light_normal.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
     },
     {
         "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_common_google_signin_btn_text_dark_normal.xml.flat",
@@ -28,16 +28,16 @@
         "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\ef5f1a04ed66693663c6ad671fce507a\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_common_google_signin_btn_text_light_focused.xml.flat",
-        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_action.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\99358c40921c7d4fda8d9fdfa40e79ea\\res\\layout\\notification_action.xml"
     },
     {
         "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\color_common_google_signin_btn_text_dark.xml.flat",
         "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\color\\common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_action.xml.flat",
-        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\99358c40921c7d4fda8d9fdfa40e79ea\\res\\layout\\notification_action.xml"
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_common_google_signin_btn_text_light_focused.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
     },
     {
         "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
@@ -56,12 +56,12 @@
         "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\99358c40921c7d4fda8d9fdfa40e79ea\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
-    },
-    {
         "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21_notification_action_background.xml.flat",
         "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\99358c40921c7d4fda8d9fdfa40e79ea\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
@@ -156,12 +156,12 @@
         "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
-        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
-    },
-    {
         "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_common_google_signin_btn_icon_dark.xml.flat",
         "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
     },
     {
         "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
@@ -172,16 +172,16 @@
         "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
     },
     {
-        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable-xhdpi-v4\\googleg_standard_color_18.png"
-    },
-    {
         "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
         "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\99358c40921c7d4fda8d9fdfa40e79ea\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_media_action.xml.flat",
         "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\ef5f1a04ed66693663c6ad671fce507a\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable-xhdpi-v4\\googleg_standard_color_18.png"
     },
     {
         "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
@@ -216,12 +216,12 @@
         "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\ef5f1a04ed66693663c6ad671fce507a\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
-    },
-    {
         "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
         "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\99358c40921c7d4fda8d9fdfa40e79ea\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
@@ -272,12 +272,12 @@
         "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\color\\common_google_signin_btn_tint.xml"
     },
     {
-        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
-    },
-    {
         "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
         "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
@@ -292,12 +292,12 @@
         "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
     },
     {
-        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
-    },
-    {
         "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
         "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\ef5f1a04ed66693663c6ad671fce507a\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.0.aar\\398e423c360904da1854d4fe3d2b9927\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
     },
     {
         "merged": "D:\\Working\\smartphonetemple2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\color_common_google_signin_btn_text_light.xml.flat",
